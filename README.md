@@ -1,4 +1,4 @@
-# Swing-calculator-U23CS1023
+# Swing-calculator
 Ibrahim shamsuddeen
 U23CS1023
 COMPUTER SCIENCE
